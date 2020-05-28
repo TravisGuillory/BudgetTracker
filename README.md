@@ -23,7 +23,7 @@ This application will allow the user to maintain an accurate account balance as 
 * MongoDB
 * Mongoose
 * IndexedDB
-* 
+
 
    Link to deployed application: [https://budget-track-pwa.herokuapp.com/](https://budget-track-pwa.herokuapp.com/)
    
