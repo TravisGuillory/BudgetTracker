@@ -23,6 +23,6 @@ Link to deployed application: [https://budget-track-pwa.herokuapp.com/](https://
 
 GitHub Repository: [https://github.com/TravisGuillory/BudgetTracker](https://github.com/TravisGuillory/BudgetTracker)
 
-![online screenshot](/assets/onlineScreenshot.png)<br>
+![online screenshot](/assets/onlineScreenshot.png)<br> <br>
 ![online screenshot](/assets/offlineScreenshot.png)
-- ![small](/assets/home.png)
+
